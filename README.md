@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jh0se3F
 - 👀 I’m tolkien, rock, classic music, run.
-- 🌱 I’m kotlin
+- 🌱 I’m lerning kotlin
 - 📫 How to reach me ... @jhosef__
 
 <!---
